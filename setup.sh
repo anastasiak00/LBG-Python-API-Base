@@ -34,7 +34,7 @@ modify_app() {
 
     sleep 3
 
-   export PORT=5001
+   export PORT=8000
 
     echo "Modifications done. Port is now set to $PORT"
 
